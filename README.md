@@ -8,7 +8,7 @@ Simple Receive NDEF message push from Android ICS in P2P mode with "Touch to Bea
 
   * Now can receive only simple text NDEF message
 
-Testing on
+#####Testing on#
 
   * ACS ACR 122U firmware 207
   * Nexus S with Android ICS 4.0.3
