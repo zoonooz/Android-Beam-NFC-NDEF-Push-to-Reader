@@ -4,9 +4,9 @@ Android Beam NFC NDEF Push to Reader
 
 Simple Receive NDEF message (SNEP) push from Android ICS in P2P mode with "Touch to Beam" function.
 
-###Under development version#
+###Version 0.1#
 
-  * Now can receive only simple text NDEF message (more that 255 bytes)
+  * Now can receive only simple text NDEF message (more than 255 bytes)
   * Use Initiator mode to manual set LLCP connection parameters
 
 #####Testing on#
