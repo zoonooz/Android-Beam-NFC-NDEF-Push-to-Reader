@@ -111,7 +111,7 @@ public class Connection {
 
     private void waitForTouchToBeam() throws CardException {
         byte[] response ;
-        byte[] targetConnect = {0x01, (byte) 0x05, (byte) 0x00}; //target + connect APDU
+        byte[] targetConnect = {0x01, (byte) 0x01, (byte) 0x04}; //target + connect APDU
         byte[] targetCC = {0x01, (byte) 0x81, (byte) 0x84}; //target + cc APDU
 
         System.out.println("Waiting for Beam");
